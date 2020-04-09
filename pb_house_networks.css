@@ -1,0 +1,48 @@
+.networks{
+	font-family: Bradley Hand ITC;
+	font-weight: 650;
+}
+.table i{
+	display: inline-block;
+	padding-right: 0.8vw;
+	padding-left: 0.8vw;
+	padding-top: 0.5vw;
+}
+.table a{
+	color: rgb(0,0,0);
+	margin-inline:1vw;
+}
+.table .fa{
+	font-size: 1.4vw;
+	transition: .5s linear;
+	margin-bottom: 0;
+	background-color: rgb(254,238,237);
+	padding-bottom: 0.5vw;
+	border-radius: 2.5vh;
+
+}
+.table .fa:hover{
+	font-size: 1.7vw;
+	margin-left: 0.5vw;
+	transition: .5s linear;
+} 
+.text_networks{
+	font-family: Bradley Hand ITC;
+	font-weight: 700;
+	font-size: 1vw;
+}
+.to_hide{
+	display: none;
+}
+.to_show{
+	display: block;
+	position: inherit;
+	background-color: rgb(255,111,147);;
+	text-align: center;
+	border-radius: 40px;
+	padding-top: 0.5vw;
+	padding-bottom: 0.5vw;
+}
+.table{
+	float: right;
+}
